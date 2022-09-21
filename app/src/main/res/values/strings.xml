@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Hola Kotlim</string>
+    <string name="edittext_escribe">Escribe algo...</string>
+    <string name="play">Play</string>
+</resources>
